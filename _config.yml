@@ -1,9 +1,9 @@
 # Site settings
-title: Air
-email: mattborn@users.noreply.github.com
+title: Sam Dennon
+email: sam@dennon.me
 description: "An ultra-minimalist Jekyll theme inspired by Information Architects."
 baseurl: "/air"
-url: "http://mattborn.com"
+url: "http://sam.dennon.me"
 
 # Build settings
 markdown: kramdown

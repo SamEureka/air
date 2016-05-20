@@ -1,8 +1,8 @@
 # Site settings
-title: Sam Dennon
+title: //Sam 
 email: sam@dennon.me
-description: "An ultra-minimalist Jekyll theme inspired by Information Architects."
-baseurl: "/air"
+description: "Sam Dennon is Director, Enterprise Application Services Division at Navy Cyber Defense Operations Command, leading Cyber Situational Awareness and Computer Network Defense Data Visualization projects in support of the U.S. Navy's Computer Network Defense Service Provider mission. His primary focus is on data presentation applications, delivering critical network intrusion sensor information to analysts and decision makers. Sam has over 14 years government service in the Information Technology Security and Computer Network Defense fields."
+baseurl: ""
 url: "http://sam.dennon.me"
 
 # Build settings
